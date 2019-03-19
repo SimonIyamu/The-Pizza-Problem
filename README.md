@@ -5,7 +5,7 @@ In few words, our approach is the following: In each iteration, a cell that does
 
 Total score: 945,493.
 --------------------------------
-Team:
+Team:  
 Dimitris Milonopoulos  
 Eugene Kladis  
 Nikos Soulounias  
